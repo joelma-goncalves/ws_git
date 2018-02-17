@@ -1,5 +1,5 @@
 # ws_git
 
-- Paulo Igor
-- Joelma Gonçalves
+1 - Paulo Igor
+2 - Joelma Gonçalves (Caruaru - PE)
 
