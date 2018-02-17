@@ -1,5 +1,5 @@
 # ws_git
 
-- Paulo Igor
+- Paulo Igor (Tucurui-PA)
 - Joelma Gonçalves
 
