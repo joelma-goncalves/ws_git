@@ -1,6 +1,7 @@
 # ws_git
 
-- Paulo Igor
-- Joelma Gonçalves
-- Felipe Aguiar
+1 - Paulo Igor (Tucuruí-PA)
+2 - Joelma Gonçalves (Caruaru - PE)
+3 - Felipe Aguiar (Belém - PA)
+
 
