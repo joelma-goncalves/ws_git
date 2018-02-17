@@ -1,6 +1,6 @@
 # ws_git
 
-- Paulo Igor
-- Joelma Gonçalves
-- Oscar Alencar
+1 - Paulo Igor (Tucuruí-PA)
+2 - Joelma Gonçalves (Caruaru - PE)
+3 - Oscar Alencar (Tucuruí - PA)
 
