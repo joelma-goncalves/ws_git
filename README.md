@@ -2,4 +2,4 @@
 
 - Paulo Igor
 - Joelma Gonçalves
-- Krissia Menezes
+- Krissia Menezes (Belém, PA)
