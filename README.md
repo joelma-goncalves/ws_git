@@ -1,6 +1,8 @@
 # ws_git
 
-- Paulo Igor
-- Joelma Gonçalves
+
+- Paulo Igor (Tucuruí-PA)
+- Joelma Gonçalves (Caruaru - PE)
 - Mateus Lima - Uruará
+
 
