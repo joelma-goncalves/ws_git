@@ -2,4 +2,5 @@
 
 - Paulo Igor
 - Joelma Gonçalves
+- Felipe Aguiar
 
